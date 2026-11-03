@@ -91,12 +91,14 @@ const ajendra = {
 <td width="50%" valign="top">
 <a href="https://darkcoder.ai"><img src="https://ajendra.info/uploads/projects/darkcoder-ai.jpg" width="100%" alt="DarkCoder.ai"/></a>
 <h3><a href="https://darkcoder.ai">DarkCoder.ai</a></h3>
+<a href="https://github.com/ajendras/darkcoder-ai"><img src="https://img.shields.io/badge/Showcase_repo-darkcoder--ai-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Self-hosted AI gateway — one OpenAI-compatible endpoint for Copilot, Claude, Gemini, Grok, DeepSeek and local Ollama, with automatic fallback and encrypted keys.<br/><br/>
 <img src="https://img.shields.io/badge/AI_Gateway-8b5cf6?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI_compatible-412991?style=flat-square"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square"/>
 </td>
 <td width="50%" valign="top">
 <a href="https://shortmy.site"><img src="https://ajendra.info/uploads/projects/shortmy-site.jpg" width="100%" alt="ShortMy"/></a>
 <h3><a href="https://shortmy.site">ShortMy</a></h3>
+<a href="https://github.com/ajendras/shortmy"><img src="https://img.shields.io/badge/Showcase_repo-shortmy-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Self-hosted URL-shortener SaaS — custom codes, link analytics with GeoIP, plans and payments, affiliates, webhooks and a full admin panel.<br/><br/>
 <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-ec4899?style=flat-square"/>
 </td>
@@ -105,12 +107,14 @@ Self-hosted URL-shortener SaaS — custom codes, link analytics with GeoIP, plan
 <td width="50%" valign="top">
 <a href="https://hoxi.net"><img src="https://ajendra.info/uploads/projects/hoxi-net.jpg" width="100%" alt="Hoxi.net"/></a>
 <h3><a href="https://hoxi.net">Hoxi.net</a></h3>
+<a href="https://github.com/ajendras/hoxi-net"><img src="https://img.shields.io/badge/Showcase_repo-hoxi--net-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Cheap, reliable web-hosting platform — public site, customer panel and staff tools for plans, websites, domains, DNS, SSL and databases.<br/><br/>
 <img src="https://img.shields.io/badge/Hosting-0ea5e9?style=flat-square"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
 <a href="https://sakariresult.net"><img src="https://ajendra.info/uploads/projects/sakariresult-net.jpg" width="100%" alt="SakariResult.net"/></a>
 <h3><a href="https://sakariresult.net">SakariResult.net</a></h3>
+<a href="https://github.com/ajendras/sakariresult-net"><img src="https://img.shields.io/badge/Showcase_repo-sakariresult--net-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Government-jobs portal — latest jobs, results, admit cards, answer keys and syllabus by department, with Hindi support and an admin panel.<br/><br/>
 <img src="https://img.shields.io/badge/Job_Portal-dc2626?style=flat-square"/> <img src="https://img.shields.io/badge/Hindi_%2F_English-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/SEO-22c55e?style=flat-square"/>
 </td>
@@ -119,12 +123,14 @@ Government-jobs portal — latest jobs, results, admit cards, answer keys and sy
 <td width="50%" valign="top">
 <a href="https://rubychocobliss.com"><img src="https://ajendra.info/uploads/projects/rubychocobliss.jpg" width="100%" alt="RubyChocoBliss"/></a>
 <h3><a href="https://rubychocobliss.com">RubyChocoBliss</a></h3>
+<a href="https://github.com/ajendras/rubychocobliss"><img src="https://img.shields.io/badge/Showcase_repo-rubychocobliss-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Premium chocolate &amp; confectionery brand site — product galleries, online ordering, animated showcases and delivery integration.<br/><br/>
 <img src="https://img.shields.io/badge/E--Commerce-db2777?style=flat-square"/> <img src="https://img.shields.io/badge/Animations-a855f7?style=flat-square"/>
 </td>
 <td width="50%" valign="top">
 <a href="https://trishnaorganics.com"><img src="https://ajendra.info/uploads/projects/trishna-organics.jpg" width="100%" alt="Trishna Organics"/></a>
 <h3><a href="https://trishnaorganics.com">Trishna Organics</a></h3>
+<a href="https://github.com/ajendras/trishna-organics"><img src="https://img.shields.io/badge/Showcase_repo-trishna--organics-181717?style=flat-square&logo=github&logoColor=white" alt="Showcase repo"/></a><br/>
 Organic store for Assam tea, cold-pressed sarso oil and spices — bilingual product showcase, WhatsApp ordering and local delivery.<br/><br/>
 <img src="https://img.shields.io/badge/E--Commerce-15803d?style=flat-square"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </td>
