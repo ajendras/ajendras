@@ -7,6 +7,7 @@
 <p>
   <a href="https://ajendra.info"><img src="https://img.shields.io/badge/Website-ajendra.info-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:contact@ajendra.info"><img src="https://img.shields.io/badge/Email-contact%40ajendra.info-ec4899?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+  <a href="https://www.instagram.com/me_ajendra/"><img src="https://img.shields.io/badge/Instagram-%40me__ajendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://ajendra.info/contact"><img src="https://img.shields.io/badge/Hire_Me-Available-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire me"/></a>
   <img src="https://img.shields.io/badge/Based_in-Uttar_Pradesh%2C_India-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -149,6 +150,8 @@ Organic store for Assam tea, cold-pressed sarso oil and spices — bilingual pro
 
 <a href="https://ajendra.info/contact"><img src="https://img.shields.io/badge/Start_a_project-ajendra.info%2Fcontact-8b5cf6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"/></a>
 <a href="https://ajendra.info/security"><img src="https://img.shields.io/badge/Free_security_check-ajendra.info%2Fsecurity-ef4444?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security check"/></a>
+<a href="https://www.instagram.com/me_ajendra/"><img src="https://img.shields.io/badge/Follow_on_Instagram-%40me__ajendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
+
 
 <br/><br/>
 
